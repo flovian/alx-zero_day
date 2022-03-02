@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git fetch origin
 git pull origin master
 my_branch git push origin my_branch
