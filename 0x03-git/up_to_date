@@ -1,0 +1,3 @@
+git checkout my-branch
+git pull origin master
+git push my-branch
